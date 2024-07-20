@@ -1,0 +1,1 @@
+# A-character-level-recurrent-neural-network-RNN-to-generate-handwritten-like-text.
