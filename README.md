@@ -1,3 +1,5 @@
+# Project Name : HANDWRITTEN TEXT GENERATION
+
 # Objective: 
 - Implement a character-level recurrent neural network (RNN) to
 generate handwritten-like text. Train the model on a dataset of
