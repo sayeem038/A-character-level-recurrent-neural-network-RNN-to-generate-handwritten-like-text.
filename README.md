@@ -1,4 +1,4 @@
-# Project Name : HANDWRITTEN TEXT GENERATION
+# Project Name : HANDWRITTEN TEXT GENERATION WITH DEEP LEARNING
 
 # Objective: 
 - Implement a character-level recurrent neural network (RNN) to
