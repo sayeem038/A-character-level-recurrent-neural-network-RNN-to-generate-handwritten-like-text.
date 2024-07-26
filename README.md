@@ -7,3 +7,4 @@ handwritten text examples, and let it generate new text based on
 the learned patterns.
 # Step:
 Step 1: Set Up Your Colab Environment Open Google Colab: Go to Google Colab.
+Step 2: Import Necessary Libraries Start by importing the necessary libraries.
