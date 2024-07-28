@@ -17,3 +17,5 @@ Step 4: Define the Model Define an RNN model using LSTM.
 Step 5: Train the Model Train the model and save checkpoints.
 
 Step 6: Generate Text Load the trained model and generate new text.
+
+Then, We will get The final result.
